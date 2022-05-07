@@ -1,5 +1,5 @@
 {
-  "name": "react-native-tab-view",
+  "name": "@kvush/react-native-tab-view",
   "version": "3.1.1",
   "description": "Tab view component for React Native",
   "main": "lib/commonjs/index.js",
@@ -35,14 +35,17 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/satya164/react-native-tab-view.git"
+    "url": "git+https://github.com/kvush/react-native-tab-view.git"
   },
   "author": "Satyajit Sahoo <satyajit.happy@gmail.com> (https://github.com/satya164/)",
+  "contributors": [
+    "Ilya Shashilov <kvushisha@gmail.com>"
+  ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/satya164/react-native-tab-view/issues"
+    "url": "https://github.com/kvush/react-native-tab-view/issues"
   },
-  "homepage": "https://github.com/satya164/react-native-tab-view#readme",
+  "homepage": "https://github.com/kvush/react-native-tab-view#readme",
   "devDependencies": {
     "@commitlint/config-conventional": "^13.1.0",
     "@expo/vector-icons": "^12.0.0",
